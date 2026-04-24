@@ -65,7 +65,7 @@ https://discord.gg/primesec-1414146515139559495
 ```
 ---
 
-*© 2026 Primesec Ops - Advanced Nuke Tool*  
+*© 2026 Primesec Ops - Deepseek-Jailbreak*  
 *Licensed for educational/disruption research only*  
 *Darkweb verified: primesec.toolkits*  
 
